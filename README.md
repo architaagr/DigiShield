@@ -13,3 +13,5 @@ This is an **AI-powered system that detects scam language** and intimidation tac
 a DistilBERT NLP model to train our app on scam-based language  
 Whisper AI for Automatic Speech Recognition (Speech to Text)  
 CSV dataset which uses Binary Labelling (1 = scam; 0 = not scam.)  
+
+This prototype was built for the IEEE Kalpana 6.0 Hack for Humanity Hackathon Feb 2026.
